@@ -16,7 +16,9 @@ My projects and experiments with frontend, Unity and interactive design.
 - ⚡ Fun fact **I love dogs**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> Email: llimonkovna@gmail.com
+</p>
+<p align="left"> Telegram: @limonadik15
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
