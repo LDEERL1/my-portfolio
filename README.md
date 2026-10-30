@@ -40,9 +40,3 @@ My projects and experiments with frontend, Unity and interactive design.
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldeerl1&show_icons=true&theme=dracula&title_color=7765dc&text_color=ebf0c1&locale=en&layout=compact" alt="ldeerl1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en" alt="ldeerl1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldeerl1&" alt="ldeerl1" /></p>
-
