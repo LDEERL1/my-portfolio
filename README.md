@@ -1,9 +1,9 @@
 # my-portfolio
 My projects and experiments with frontend, Unity and interactive design.
 <h1 align="center">Hi 👋, I'm krylova Alyona</h1>
-<h3 align="center">Student Developer | Game & Interactive Enthusiast</h3>
+<h3 align="center">Developer | Game & Interactive Enthusiast</h3>
 
-- 🎓 **4th year Student in Information Systems & Technologies**
+- 🎓 **Bakalavr in Information Systems & Technologies**
 
 - 🔭 **Looking for internship opportunities in tech**
 
@@ -16,9 +16,10 @@ My projects and experiments with frontend, Unity and interactive design.
 - ⚡ Fun fact **I love dogs**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Email: llimonkovna@gmail.com
+<p align="left"> Email: ldeerl1@mail.ru
+
 </p>
-<p align="left"> Telegram: @limonadik15
+<p align="left"> Telegram: @ldeerl1
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
